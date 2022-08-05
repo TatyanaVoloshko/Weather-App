@@ -1,0 +1,61 @@
+.body {
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+.Request-button {
+    display: block;
+    margin: 20px 20px 40px 150px;
+        
+}
+
+.search {
+color: white;
+background-color: #007bff;
+border-radius: 5px;
+border-color: #007bff;
+width: 120px;
+height: 45px;
+}
+
+button:hover {
+    cursor: pointer;
+    background: #0069D9;
+}
+
+.city {
+    border-radius: 5px;
+    border-color: rgb(169, 167, 167);
+    border-width: 0.5px;
+    width: 400px;
+    height: 45px;
+    margin-right: 20px;
+}
+
+.col-sm-3 {
+    margin: 20px;
+    text-align: center;
+    
+}
+
+.col-sm-5 {
+    margin: 20px 40px 20px 20px;
+    text-align: center;
+    
+}
+
+
+.intermediate, .days {
+    margin: 20px;
+} 
+
+.weather {
+    border: 1px solid rgb(169, 167, 167);
+    margin-left: 20px;
+    max-width: 900px;
+    border-radius: 10px;
+}
+li {
+    list-style: none;
+
+}
